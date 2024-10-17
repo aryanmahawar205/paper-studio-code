@@ -10,7 +10,6 @@ Paper Studio Code is a revolutionary way to code! Forget typing on a keyboard—
 - Get the result back from Paper Studio Code after processing.
 
 ## Why Paper Studio Code? ✨
-
 | **Paper Studio Code** 😃 | **Traditional Code Editors** 😢 |
 | ------------------------ | ------------------------------- |
 | Users write on **paper** ✏️ | Users write on **computers** 🖥️ |
