@@ -29,9 +29,9 @@ Paper Studio Code is a revolutionary way to code! Forget typing on a keyboard—
 - Universal Programming: Supports multiple programming languages via Gemini.
 - Customization: Experience 100% 3D customization and creativity with physical paper and virtual processing.
 - Playful and Serious: Whether it's finding the meaning of the universe or simply ending the tabs vs spaces debate, Paper Studio Code delivers!
-
+  
   <br>
-
+  
 ## Installation 🚀
 Paper Studio Code will be available soon. In the meantime, stay tuned for updates and documentation on setting up the platform.
 
