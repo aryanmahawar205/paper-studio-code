@@ -1,7 +1,7 @@
 # Paper Studio Code ✏️
 Paper Studio Code is a revolutionary way to code! Forget typing on a keyboard—now you can write your code on paper and watch it come to life. This project brings together the best of analog creativity and the power of modern coding environments.
 
-<br>
+
 
 ## How Does Paper Studio Code Work? 🤔
 - Write code on paper.
